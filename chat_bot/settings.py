@@ -25,7 +25,7 @@ SECRET_KEY = 'f&kw_w@h)2#-l(kp*0)tqzjuuma8!m22m&b-_e8a4l(#ff8+@s'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'chat-bot-mig.herokuapp.com']
 
 
 # Application definition
